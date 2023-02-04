@@ -11,3 +11,19 @@ Total ice creams are .
 However, you have added two groups of 3 ice creams. Therefore, you have multiplied three ice creams by two. You may also write it as .
 
 As we can see,  is the same as .When we multiply two numbers, the answer is called product. The number of objects in each group is called multiplicand, and the number of such equal groups is called the multiplier. In our case,  is the multiplicand,  is the multiplier and 6 is the product.
+
+
+# installation
+
+pkg update  && pkg upgrade -y
+
+pkg install git
+
+pkg install python3
+
+git clone https://github.com/Yousuf9963/multiplication_99.git
+
+cd multiplication_99
+
+chmod +x *
+
