@@ -27,3 +27,7 @@ cd multiplication_99
 
 chmod +x *
 
+python3 main.py
+
+Donation:
+https://www.buymeacoffee.com/junioprogrammer
