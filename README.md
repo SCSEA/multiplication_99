@@ -21,7 +21,7 @@ pkg install git
 
 pkg install python3
 
-git clone https://github.com/Yousuf9963/multiplication_99.git
+git clone https://github.com/SCSEA/multiplication_99.git
 
 cd multiplication_99
 
@@ -29,5 +29,4 @@ chmod +x *
 
 python3 main.py
 
-Donation:
-https://www.buymeacoffee.com/junioprogrammer
+
